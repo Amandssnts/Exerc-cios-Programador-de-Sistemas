@@ -1,0 +1,10 @@
+C:\Users\amanda.ssantos151\source\programadordesistemas\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\Users\amanda.ssantos151\source\programadordesistemas\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\Users\amanda.ssantos151\source\programadordesistemas\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\amanda.ssantos151\source\programadordesistemas\WindowsFormsApp1\obj\x64\Debug\calculadora.csproj.AssemblyReference.cache
+C:\Users\amanda.ssantos151\source\programadordesistemas\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.frmCalculadora.resources
+C:\Users\amanda.ssantos151\source\programadordesistemas\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\amanda.ssantos151\source\programadordesistemas\WindowsFormsApp1\obj\x64\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\amanda.ssantos151\source\programadordesistemas\WindowsFormsApp1\obj\x64\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ssantos151\source\programadordesistemas\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\Users\amanda.ssantos151\source\programadordesistemas\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
