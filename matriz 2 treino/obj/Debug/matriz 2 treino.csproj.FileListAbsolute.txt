@@ -1,0 +1,10 @@
+C:\Users\amanda.ssantos151\source\repos\matriz 2 treino\bin\Debug\matriz 2 treino.exe.config
+C:\Users\amanda.ssantos151\source\repos\matriz 2 treino\bin\Debug\matriz 2 treino.exe
+C:\Users\amanda.ssantos151\source\repos\matriz 2 treino\bin\Debug\matriz 2 treino.pdb
+C:\Users\amanda.ssantos151\source\repos\matriz 2 treino\obj\Debug\matriz 2 treino.csproj.AssemblyReference.cache
+C:\Users\amanda.ssantos151\source\repos\matriz 2 treino\obj\Debug\matriz_2_treino.frmMatriz.resources
+C:\Users\amanda.ssantos151\source\repos\matriz 2 treino\obj\Debug\matriz_2_treino.Properties.Resources.resources
+C:\Users\amanda.ssantos151\source\repos\matriz 2 treino\obj\Debug\matriz 2 treino.csproj.GenerateResource.cache
+C:\Users\amanda.ssantos151\source\repos\matriz 2 treino\obj\Debug\matriz 2 treino.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ssantos151\source\repos\matriz 2 treino\obj\Debug\matriz 2 treino.exe
+C:\Users\amanda.ssantos151\source\repos\matriz 2 treino\obj\Debug\matriz 2 treino.pdb
